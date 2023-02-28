@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSOAEdqrYKLCcRJmC3Xs+C/66Kf6ZjubXN3oAUbNxN+hrQ6Mj3RiX/FJJql3Q/qUgCXzqh+Qy+qYjiQhJYSS/Q==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flatedex\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

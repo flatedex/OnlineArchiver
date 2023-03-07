@@ -4,6 +4,7 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443
+EXPOSE 5432
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
@@ -22,5 +23,4 @@ COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "dockerApp.dll"]
 
 FROM postgres:15.2-alpine
-EXPOSE 5432
 ENV POSTGRES_PASSWORD = qwerty

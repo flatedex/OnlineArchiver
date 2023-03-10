@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj": {}
+    "G:\\C# Projects\\OnlineArchiver\\dockerApp\\dockerApp.csproj": {}
   },
   "projects": {
-    "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj": {
+    "G:\\C# Projects\\OnlineArchiver\\dockerApp\\dockerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj",
+        "projectUniqueName": "G:\\C# Projects\\OnlineArchiver\\dockerApp\\dockerApp.csproj",
         "projectName": "dockerApp",
-        "projectPath": "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj",
-        "packagesPath": "C:\\Users\\flatedex\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Projects\\dockerSolution\\dockerApp\\obj\\",
+        "projectPath": "G:\\C# Projects\\OnlineArchiver\\dockerApp\\dockerApp.csproj",
+        "packagesPath": "C:\\Users\\ilyas\\.nuget\\packages\\",
+        "outputPath": "G:\\C# Projects\\OnlineArchiver\\dockerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\flatedex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ilyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

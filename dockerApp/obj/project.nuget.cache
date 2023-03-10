@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uSOAEdqrYKLCcRJmC3Xs+C/66Kf6ZjubXN3oAUbNxN+hrQ6Mj3RiX/FJJql3Q/qUgCXzqh+Qy+qYjiQhJYSS/Q==",
+  "dgSpecHash": "MBppm3D5VKW/zI1yQZsMaQF86d2cc26+S+f3srtP+1R4+aS0LUeAN72Jeir3cg9ElHAN2utEHipc/LCvo/gowg==",
   "success": true,
-  "projectFilePath": "C:\\C# Projects\\dockerSolution\\dockerApp\\dockerApp.csproj",
+  "projectFilePath": "G:\\C# Projects\\OnlineArchiver\\dockerApp\\dockerApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\flatedex\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\ilyas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
   "logs": []
 }
